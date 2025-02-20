@@ -1,38 +1,115 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
+/* Centering the Playlist Box */
+.playlist-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   min-height: 100vh;
+  background: #f5f0e1; /* Light vintage background */
+  padding: 20px;
+}
+
+/* Elegant Fixed Playlist Box */
+.playlist-box {
+  background: #fffaf0; /* Soft cream color */
+  padding: 25px;
+  width: 450px;
+  height: 600px; /* Fixed height to prevent movement */
+  border-radius: 15px;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.15); /* Classic soft shadow */
+  text-align: center;
+  border: 2px solid #d4a373; /* Soft brown border */
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  justify-content: space-between;
+}
+
+/* Playlist Title */
+h2 {
+  font-family: "Garamond", serif;
+  font-size: 26px;
+  font-weight: bold;
+  color: #8b5e34; /* Warm brown */
+  border-bottom: 2px solid #d4a373;
+  padding-bottom: 10px;
+  margin-bottom: 15px;
+}
+
+/* Playlist Container (Fixed height & Scrollable) */
+.playlist-scroll-container {
+  height: 350px; /* Fixed height to keep the box steady */
+  overflow-y: auto;
+  border: 1px solid #d4a373;
+  border-radius: 10px;
+  padding: 10px;
+  background: #fff5e1; /* Light pastel tone */
+}
+
+/* Playlist Items */
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.playlist-item {
+  padding: 12px;
+  margin: 6px 0;
+  background: #fff5e1;
+  border-radius: 8px;
+  font-family: "Georgia", serif;
+  font-size: 16px;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+  border: 1px solid #d4a373;
+  text-align: left;
+  padding-left: 15px;
+}
+
+.playlist-item:hover {
+  background: #ffeadb;
+  transform: scale(1.02);
+}
+
+/* Status Display */
+.status {
+  font-size: 18px;
+  font-family: "Garamond", serif;
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 8px;
+  background: #f4e1d2;
+  border: 1px solid #d4a373;
+  font-weight: bold;
+  color: #5e4126;
+}
+
+/* Controls */
+.controls {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+}
+
+.controls button {
+  background: #8b5e34;
   color: white;
+  padding: 12px 18px;
+  font-size: 14px;
+  border: none;
+  cursor: pointer;
+  border-radius: 6px;
+  font-family: "Georgia", serif;
+  transition: all 0.3s ease-in-out;
+  border: 2px solid #d4a373;
 }
 
-.App-link {
-  color: #61dafb;
+.controls button:hover {
+  background: #a97c50;
+  transform: scale(1.05);
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/* Active Playing Song */
+.active {
+  font-weight: bold;
+  color: #b24c00;
 }
