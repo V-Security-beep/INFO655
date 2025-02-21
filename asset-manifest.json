@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/V-Security-beep/INFO655.git/static/css/main.e08ff130.chunk.css",
+    "main.js": "/V-Security-beep/INFO655.git/static/js/main.650bfabd.chunk.js",
+    "main.js.map": "/V-Security-beep/INFO655.git/static/js/main.650bfabd.chunk.js.map",
+    "runtime-main.js": "/V-Security-beep/INFO655.git/static/js/runtime-main.f21d8340.js",
+    "runtime-main.js.map": "/V-Security-beep/INFO655.git/static/js/runtime-main.f21d8340.js.map",
+    "static/js/2.5c053ade.chunk.js": "/V-Security-beep/INFO655.git/static/js/2.5c053ade.chunk.js",
+    "static/js/2.5c053ade.chunk.js.map": "/V-Security-beep/INFO655.git/static/js/2.5c053ade.chunk.js.map",
+    "static/js/3.b5770693.chunk.js": "/V-Security-beep/INFO655.git/static/js/3.b5770693.chunk.js",
+    "static/js/3.b5770693.chunk.js.map": "/V-Security-beep/INFO655.git/static/js/3.b5770693.chunk.js.map",
+    "index.html": "/V-Security-beep/INFO655.git/index.html",
+    "precache-manifest.d87fadaa668c510c8ea6bf1b97a3d112.js": "/V-Security-beep/INFO655.git/precache-manifest.d87fadaa668c510c8ea6bf1b97a3d112.js",
+    "service-worker.js": "/V-Security-beep/INFO655.git/service-worker.js",
+    "static/css/main.e08ff130.chunk.css.map": "/V-Security-beep/INFO655.git/static/css/main.e08ff130.chunk.css.map",
+    "static/js/2.5c053ade.chunk.js.LICENSE.txt": "/V-Security-beep/INFO655.git/static/js/2.5c053ade.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f21d8340.js",
+    "static/js/2.5c053ade.chunk.js",
+    "static/css/main.e08ff130.chunk.css",
+    "static/js/main.650bfabd.chunk.js"
+  ]
+}
