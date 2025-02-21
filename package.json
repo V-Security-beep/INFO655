@@ -2,7 +2,7 @@
   "name": "playlist",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/V-Security-beep/INFO_655.git",
+  "homepage": "https://github.com/machawk1/INFO_655b.git",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/user-event": "^13.5.0",
