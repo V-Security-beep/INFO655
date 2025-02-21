@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/V-Security-beep/INFO655.git/static/css/main.e08ff130.chunk.css",
-    "main.js": "/V-Security-beep/INFO655.git/static/js/main.650bfabd.chunk.js",
-    "main.js.map": "/V-Security-beep/INFO655.git/static/js/main.650bfabd.chunk.js.map",
-    "runtime-main.js": "/V-Security-beep/INFO655.git/static/js/runtime-main.f21d8340.js",
-    "runtime-main.js.map": "/V-Security-beep/INFO655.git/static/js/runtime-main.f21d8340.js.map",
-    "static/js/2.5c053ade.chunk.js": "/V-Security-beep/INFO655.git/static/js/2.5c053ade.chunk.js",
-    "static/js/2.5c053ade.chunk.js.map": "/V-Security-beep/INFO655.git/static/js/2.5c053ade.chunk.js.map",
-    "static/js/3.b5770693.chunk.js": "/V-Security-beep/INFO655.git/static/js/3.b5770693.chunk.js",
-    "static/js/3.b5770693.chunk.js.map": "/V-Security-beep/INFO655.git/static/js/3.b5770693.chunk.js.map",
-    "index.html": "/V-Security-beep/INFO655.git/index.html",
-    "precache-manifest.d87fadaa668c510c8ea6bf1b97a3d112.js": "/V-Security-beep/INFO655.git/precache-manifest.d87fadaa668c510c8ea6bf1b97a3d112.js",
-    "service-worker.js": "/V-Security-beep/INFO655.git/service-worker.js",
-    "static/css/main.e08ff130.chunk.css.map": "/V-Security-beep/INFO655.git/static/css/main.e08ff130.chunk.css.map",
-    "static/js/2.5c053ade.chunk.js.LICENSE.txt": "/V-Security-beep/INFO655.git/static/js/2.5c053ade.chunk.js.LICENSE.txt"
+    "main.css": "/INFO655/static/css/main.e08ff130.chunk.css",
+    "main.js": "/INFO655/static/js/main.650bfabd.chunk.js",
+    "main.js.map": "/INFO655/static/js/main.650bfabd.chunk.js.map",
+    "runtime-main.js": "/INFO655/static/js/runtime-main.24b6d140.js",
+    "runtime-main.js.map": "/INFO655/static/js/runtime-main.24b6d140.js.map",
+    "static/js/2.5c053ade.chunk.js": "/INFO655/static/js/2.5c053ade.chunk.js",
+    "static/js/2.5c053ade.chunk.js.map": "/INFO655/static/js/2.5c053ade.chunk.js.map",
+    "static/js/3.b5770693.chunk.js": "/INFO655/static/js/3.b5770693.chunk.js",
+    "static/js/3.b5770693.chunk.js.map": "/INFO655/static/js/3.b5770693.chunk.js.map",
+    "index.html": "/INFO655/index.html",
+    "precache-manifest.561447b0e3ef7dc4bab5b1eb733e19e1.js": "/INFO655/precache-manifest.561447b0e3ef7dc4bab5b1eb733e19e1.js",
+    "service-worker.js": "/INFO655/service-worker.js",
+    "static/css/main.e08ff130.chunk.css.map": "/INFO655/static/css/main.e08ff130.chunk.css.map",
+    "static/js/2.5c053ade.chunk.js.LICENSE.txt": "/INFO655/static/js/2.5c053ade.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f21d8340.js",
+    "static/js/runtime-main.24b6d140.js",
     "static/js/2.5c053ade.chunk.js",
     "static/css/main.e08ff130.chunk.css",
     "static/js/main.650bfabd.chunk.js"
